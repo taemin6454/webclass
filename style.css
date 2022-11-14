@@ -1,0 +1,22 @@
+* {
+    color   : black;
+    margin  : 0px;
+    padding : 0px;
+}
+.main-nav-container {
+    width   : 100%;
+    height  : 200px;
+    background-color: aqua;   
+}
+.main-nav {
+    background-color: papayawhip;
+    margin-top : 15px;
+    width : 800px;        
+}
+.nav-search {
+    width : fit-content;
+    height : 30px;
+    border-radius: 5%;
+    color:aliceblue;
+    background-color: blue;
+}
