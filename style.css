@@ -11,9 +11,14 @@
 .main-nav {
     background-color: papayawhip;
     margin-top : 15px;
-    width : 800px;        
+    width : 800px;
 }
+.main-nav > ul > li {
+    display: inline-block;   
+}
+
 .nav-search {
+    
     width : fit-content;
     height : 30px;
     border-radius: 5%;
